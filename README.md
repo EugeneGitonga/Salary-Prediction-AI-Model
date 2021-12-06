@@ -1,1 +1,1 @@
-# Simple-linear-regression
+# Simple-linear-regression-project
