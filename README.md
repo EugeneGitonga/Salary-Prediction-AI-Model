@@ -5,7 +5,8 @@
 Contributions are most welcome, whether you’ve fixed a bug or introduced a new feature in the notebook. I welcome pull requests! (If you’d like to make a larger change and check with me first, you can do so via (https://www.linkedin.com/in/eugene-gitonga-b29730163/).
 
 ## Introduction
-* For this project , I will use the "Salary_Data.CSV" to perform Simple Linear Regression.
+* The main goal of this project is to predict the salaries of employees based on the years of experience.
+* I have used the "Salary_Data.CSV" to perform Simple Linear Regression for this project.
 
 ## How to run this project from GitHub
 ### Method 1 : Using Binder
