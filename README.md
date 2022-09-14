@@ -1,4 +1,4 @@
-# Simple-linear-regression-project
+# Salary-Prediction-AI-Model
 
 ## Contribute Code
 
@@ -6,7 +6,7 @@ Contributions are most welcome, whether you’ve fixed a bug or introduced a new
 
 ## Introduction
 * The main goal of this project is to predict the salaries of employees based on the years of experience.
-* I have used the "Salary_Data.CSV" to perform Simple Linear Regression for this project.
+* I have used the "Salary_Data.CSV" to perform **Simple Linear Regression** for this project.
 
 ## How to run this project from GitHub
 ### Method 1 : Using Binder
